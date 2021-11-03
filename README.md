@@ -10,6 +10,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
+### Info-Stats
+
+![repo size](https://img.shields.io/badge/Repository%20Size-1.53MB-yellow?style=for-the-badge&logo=appveyor)
+
+
 ## Contributing
 
 Contributions and Ideas are always welcome!
